@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+[预览链接](https://381924237.github.io/cnode/dist/index.html)
+
 ## Build Setup
 
 ``` bash
